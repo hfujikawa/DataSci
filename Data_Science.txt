@@ -24,3 +24,16 @@ http://rmecab.jp/ranko
 
 http://sinhrks.hatenablog.com/entry/2016/02/01/080859#%E5%9B%9B%E5%88%86%E4%BD%8D%E7%AF%84%E5%9B%B2%E3%81%A7%E3%81%AE%E6%A4%9C%E5%87%BA
 Python pandas 欠損値/外れ値/離散化の処理
+
+
+「今日から役立つ統計学の教科書」
+p.29
+Ploblem     問題:身近な課題の明確化
+Plan        調査：調査、実験、研究のデザイン
+Data        データ：データ収集、表の作成
+Analysis    分析：データ分析、パターンの発見
+Conclusion  結論：課題の結論、新たな課題の発見
+
+https://sourceforge.net/projects/recsveditor/files/reCsvEditor/Version_0.99.0/ReCsvEditor_USB_0.99.zip/download
+https://sourceforge.net/projects/recsveditor/
+reCsvEditor: Editor for simple (only one record type) Csv Files.

@@ -37,3 +37,8 @@ Conclusion  結論：課題の結論、新たな課題の発見
 https://sourceforge.net/projects/recsveditor/files/reCsvEditor/Version_0.99.0/ReCsvEditor_USB_0.99.zip/download
 https://sourceforge.net/projects/recsveditor/
 reCsvEditor: Editor for simple (only one record type) Csv Files.
+
+(base) i2m@GP62:~/Downloads/ReCsvEditor_USB$ java -version
+openjdk version "1.8.0_232"
+OpenJDK Runtime Environment (build 1.8.0_232-8u232-b09-0ubuntu1~16.04.1-b09)
+OpenJDK 64-Bit Server VM (build 25.232-b09, mixed mode)

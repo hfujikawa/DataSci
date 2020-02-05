@@ -8,7 +8,7 @@ Created on Wed Nov 27 06:36:20 2019
 import pandas as pd
 
 # https://stackoverflow.com/questions/34397982/pandas-dataframe-access-multiple-items-with-not-equal-to
-fpath = 'D:/Develop/Scripts/TableSample.csv'
+fpath = 'D:/Develop/DataSci/TableSample.csv'
 df = pd.read_csv(fpath)
 
 df1 = df[(df['Train'] != 'DeutscheBahn') & (df['Train'] != 'SNCF')]

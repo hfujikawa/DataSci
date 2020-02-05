@@ -34,6 +34,12 @@ Data        データ：データ収集、表の作成
 Analysis    分析：データ分析、パターンの発見
 Conclusion  結論：課題の結論、新たな課題の発見
 
+https://gist.github.com/countrymarmot/8413981
+caculate Cp and Cpk using python numpy
+
+ conda env export > env_datasci.yaml
+
+ 
 https://sourceforge.net/projects/recsveditor/files/reCsvEditor/Version_0.99.0/ReCsvEditor_USB_0.99.zip/download
 https://sourceforge.net/projects/recsveditor/
 reCsvEditor: Editor for simple (only one record type) Csv Files.
